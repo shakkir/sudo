@@ -10,6 +10,6 @@ printf(“Enter the 2 numbers”);// printf is used to print something on the sc
 scanf(“%d%d”,&a,&b);// scanf is used to read the data. You can refer this for %d What does %d mean?
 
 printf(“%d”,a+b);
-
-return 0;// As we have used int with main so for successful return
-}
+printf("hi hello world");
+return 0;
+   }
